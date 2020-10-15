@@ -1,0 +1,11 @@
+.idea/
+**/Input
+**/Output
+**/Log
+**/__pycache__
+**/*.jpg
+**/*.png
+**/checkpoints
+**/pickles
+**/images
+
