@@ -1,2 +1,3 @@
-# hrnet-pose-estimation
-> Deep learning for human pose estimation based on HRNet
+# HRNet for Human Pose Estimation
+>Deep learning for human pose estimation based on HRNet
+
